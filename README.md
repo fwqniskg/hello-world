@@ -1,2 +1,2 @@
 # hello-world
-First Python lll ñññññññ
+First Python
